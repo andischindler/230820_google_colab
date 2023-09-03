@@ -4,7 +4,7 @@
 
 ## Abschnitt 2
 
-Hier ein Beitrag von Andis Account
+Hier ein Beitrag von Andis Account. Das kommt gut.
 
 ## Abschnitt 3
 
